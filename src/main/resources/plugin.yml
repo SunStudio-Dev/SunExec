@@ -1,0 +1,24 @@
+name: SunExec
+version: 1.0
+main: ru.sunexec.plugin.SunExec
+author: SunStudio
+description: "Консоль в кармане - управляй сервером одной рукой!"
+api-version: 1.13
+
+commands:
+  exec:
+    description: Выполнить команду от имени консоли
+    usage: /<command> <команда>
+    permission: sunexec.use
+  sunexec:
+    description: Управление плагином SunExec
+    usage: /<command> reload
+    permission: sunexec.admin
+
+permissions:
+  sunexec.use:
+    description: Позволяет использовать команду /exec
+    default: op
+  sunexec.admin:
+    description: Позволяет управлять плагином
+    default: op

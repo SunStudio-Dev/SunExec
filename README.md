@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-green.svg" alt="Version">
   <img src="https://img.shields.io/badge/minecraft-1.13+-blue.svg" alt="Minecraft">
-  <img src="https://img.shields.io/badge/spigot-1.13+-orange.svg" alt="Spigot">
+  <img src="https://img.shields.io/badge/spigot-1.13+-orange.svg" alt="Spigot/Bukkit/Paper/Other">
 </p>
 
 <p align="center">
